@@ -7,9 +7,17 @@ S every time I make a project I should make it using this and improve it with ti
 
 ## What is should do
 
-GUI app??
+[GUI App??](https://www.youtube.com/watch?v=iM3kjbbKHQU)
+
+[Docs](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github)
 
 1. Create a github repo
+CD FOLDER_PATH
+git init
+git add .
+git commit -m "First Commit"
+
+
 
 
 **NextJS**
@@ -41,7 +49,7 @@ if __name__ == '__main__':
 
 ## Basics
 
-Create a venv `python -m venv .venv` //Name the folder whatever you want.
+Create a venv `python -m venv .venv` <!-- Name the folder whatever you want. -->
 
 Activate it - Win: `source .venv/Scripts/activate` <!--  Mac: `source .venv/bin/activate` -->
 
